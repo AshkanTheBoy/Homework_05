@@ -1,4 +1,5 @@
 public class Task4_21 {
+    //Определить, является ли число a делителем числа b?
     public static void main(String[] args) {
         int a = 2;
         int b = 4;
